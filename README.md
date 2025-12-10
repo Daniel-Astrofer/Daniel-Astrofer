@@ -14,6 +14,7 @@ Java · Spring Boot · PostgreSQL · Redis · Docker · Git · AWS
 - Documentação pública: https://…  
 - Backend em produção: https://…  
 - GitHub: https://github.com/Daniel-Astrofer/kerosene
+- Teste a API Aqui https://registry.scalar.com/@default-team-qjzm1/apis/openapi-definition/latest#tag/auth
 
 #
 
