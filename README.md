@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniel Astrofer — Desenvolvedor Backend Java 🔧
 
-<!--
-**Daniel-Astrofer/Daniel-Astrofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim  
+Desenvolvedor backend focado em APIs seguras com Java, Spring Boot, PostgreSQL e Redis.  
+Buscando vaga júnior backend.
 
-Here are some ideas to get you started:
+## Tecnologias  
+Java · Spring Boot · PostgreSQL · Redis · Docker · Git · AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque  
+
+### 🛠️ Kerosene (Backend + Auth API)  
+- API de autenticação, TOTP, gerenciamento de usuários e wallets  
+- Documentação pública: https://…  
+- Backend em produção: https://…  
+- GitHub: https://github.com/Daniel-Astrofer/kerosene
+
+### Outros projetos  
+- Nome do Projeto – breve descrição – tecnologias
+
+## Contatos  
+[LinkedIn](https://…) · [Email](mailto:…)  
