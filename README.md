@@ -15,8 +15,7 @@ Java · Spring Boot · PostgreSQL · Redis · Docker · Git · AWS
 - Backend em produção: https://…  
 - GitHub: https://github.com/Daniel-Astrofer/kerosene
 
-### Outros projetos  
-- Nome do Projeto – breve descrição – tecnologias
+#
 
 ## Contatos  
-[LinkedIn](https://…) · [Email](mailto:…)  
+[LinkedIn]([https://…](https://www.linkedin.com/in/nycollas-daniel-452060382/)) · [Email](mailto:astroferdaniel@gmail.com)  
