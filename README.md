@@ -18,4 +18,4 @@ Java · Spring Boot · PostgreSQL · Redis · Docker · Git · AWS
 #
 
 ## Contatos  
-[LinkedIn]([https://…](https://www.linkedin.com/in/nycollas-daniel-452060382/)) · [Email](mailto:astroferdaniel@gmail.com)  
+[LinkedIn]([https://www.linkedin.com/in/nycollas-daniel-452060382/]) · [Email](mailto:astroferdaniel@gmail.com)  
